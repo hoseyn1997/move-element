@@ -1,0 +1,14 @@
+#my-area {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+  max-width: 100%;
+  margin: 50px auto;
+  margin-left: 50px;
+  background-color: rgb(217, 217, 217);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  cursor: move;
+}
